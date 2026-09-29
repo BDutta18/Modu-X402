@@ -25,7 +25,6 @@ export function Nav() {
             <text x="14" y="19" textAnchor="middle" fontFamily="JetBrains Mono, monospace" fontWeight="700" fontSize="13" fill="#14b8a6">m</text>
           </svg>
           <span className="font-bold text-[17px] tracking-tight text-foreground">modu</span>
-          <span className="hidden sm:inline-block font-mono text-[10px] text-muted border border-border rounded px-1.5 py-0.5 ml-1">x402</span>
         </Link>
 
         {/* Desktop links */}

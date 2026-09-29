@@ -26,7 +26,7 @@
     "proxy",
     "cli"
   ],
-  "author": "Rupam Ghosh",
+  "author": "BDutta18",
   "license": "MIT",
   "scripts": {
     "build": "tsc",

@@ -116,4 +116,4 @@ When consumers call your proxy:
 
 ## License
 
-MIT (c) Rupam Ghosh
+MIT (c) [BDutta18](https://github.com/BDutta18)

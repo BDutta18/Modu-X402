@@ -469,5 +469,5 @@ modu config
 
 ## License
 
-MIT (c) [Rupam Ghosh](https://github.com/rupamghosh2006)
+MIT (c) [BDutta18](https://github.com/BDutta18)
 

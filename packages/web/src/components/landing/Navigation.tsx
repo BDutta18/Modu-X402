@@ -59,9 +59,6 @@ export function Navigation() {
             >
               modu
             </span>
-            <span className="font-mono text-[10px] text-zinc-600 border border-black/10 rounded-full px-2 py-0.5 ml-1 hidden sm:inline-block bg-white/50">
-              x402
-            </span>
           </Link>
 
           {/* Desktop Navigation */}

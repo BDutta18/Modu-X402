@@ -27,9 +27,6 @@ export function AppLayout() {
         <Link to="/" className="flex items-center gap-2.5 h-20 px-6 border-b border-foreground/10 group">
           <img src="/logo.png" alt="modu logo" className="w-8 h-8 object-contain rounded-md" />
           <span className="font-display font-bold text-2xl text-foreground">modu</span>
-          <span className="font-mono text-[10px] text-muted-foreground border border-foreground/15 rounded px-1.5 py-0.5 ml-1">
-            x402
-          </span>
         </Link>
 
         {/* Navigation Items */}
